@@ -1,5 +1,5 @@
 <head>
-    <title>Rakha-Wibe-</title>
+    <title>RakhaCyber-</title>
     <style>
         body {
             background-color: black;
