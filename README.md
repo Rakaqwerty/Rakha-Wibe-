@@ -1,4 +1,3 @@
-# Rakha-Wibe-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,39 +8,41 @@
       font-family: Arial, sans-serif;
       background-color: #000;
       color: #00ffff;
+      font-size: 14px;
     }
 
     .container {
-      max-width: 600px;
+      max-width: 400px;
       margin: 0 auto;
-      padding: 20px;
+      padding: 10px;
     }
 
     h1, h2 {
       text-align: center;
-      color: #00ffff;
+      font-size: 20px;
     }
 
     .highlight-box {
       background-color: #111;
-      padding: 20px;
-      margin: 20px 0;
+      padding: 15px;
+      margin: 15px 0;
       border: 1px solid #00ffff;
-      box-shadow: 0 0 10px #00ffff;
-      border-radius: 10px;
+      box-shadow: 0 0 5px #00ffff;
+      border-radius: 8px;
     }
 
     .button {
       display: block;
       width: 100%;
-      padding: 12px;
-      margin: 10px 0;
+      padding: 10px;
+      margin: 8px 0;
       background-color: transparent;
-      border: 2px solid #00ffff;
+      border: 1px solid #00ffff;
       color: #00ffff;
       text-align: center;
       text-decoration: none;
-      border-radius: 8px;
+      border-radius: 5px;
+      font-size: 14px;
       transition: 0.3s;
     }
 
@@ -51,8 +52,7 @@
     }
 
     .contact-info {
-      margin: 20px 0;
-      font-size: 16px;
+      margin: 15px 0;
     }
 
     .contact-info a {
@@ -62,24 +62,9 @@
 
     footer {
       text-align: center;
-      font-size: 12px;
-      margin-top: 30px;
+      font-size: 10px;
+      margin-top: 20px;
       color: #ccc;
-    }
-
-    @media (max-width: 480px) {
-      .container {
-        padding: 10px;
-      }
-
-      .button {
-        font-size: 16px;
-        padding: 10px;
-      }
-
-      .contact-info {
-        font-size: 15px;
-      }
     }
   </style>
 </head>
